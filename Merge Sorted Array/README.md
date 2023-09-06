@@ -6,6 +6,8 @@ Merge `nums1` and `nums2` into a single array sorted in __non-decreasing order._
 
 The final sorted array should not be returned by the function, but instead be _stored inside the array_ `nums1`. To accommodate this, `nums1` has a length of `m + n`, where the first `m` elements denote the elements that should be merged, and the last `n` elements are set to `0` and should be ignored. `nums2` has a length of `n`.
 
+<hr>
+
 __Example 1:__
 ```
 Input: nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3
