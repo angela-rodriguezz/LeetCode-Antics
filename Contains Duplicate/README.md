@@ -2,6 +2,8 @@
 
 Given an integer array `nums`, return `true` if any value appears __at least twice__ in the array, and return `false` if every element is distinct.
 
+<hr>
+
 __Example 1:__
 ```
 Input: nums = [1,2,3,1]
