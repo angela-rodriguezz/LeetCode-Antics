@@ -8,6 +8,8 @@ Consider the number of elements in `nums` which are not equal to `val` be `k`, t
   
 - Return `k`.
 
+<hr>
+
 __Custom Judge:__
 
 The judge will test your solution with the following code:
