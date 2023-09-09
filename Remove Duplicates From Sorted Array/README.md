@@ -22,6 +22,7 @@ for (int i = 0; i < k; i++) {
 }
 ```
 If all assertions pass, then your solution will be __accepted.__
+<hr>
 
 __Example 1:__
 ```
