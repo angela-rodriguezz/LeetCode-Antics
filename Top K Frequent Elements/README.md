@@ -2,6 +2,8 @@
 
 Given an integer array `nums` and an integer `k`, return the `k` most _frequent elements_. You may return the answer in __any order__.
 
+<hr>
+
 __Example 1:__
 ```
 Input: nums = [1,1,1,2,2,3], k = 2
