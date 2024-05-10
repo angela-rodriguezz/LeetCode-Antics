@@ -1,6 +1,6 @@
 <h1>Concatenation of Array</h1>
 
-Given an integer array `nums` of length `n`, you want to create an array `ans` of length `2n` where `ans[i] == nums[i]` and `ans[i + n] == nums[i]` for `0 <= i < n` (__0-indexed__).
+Given an integer array `nums` of length `n`, you want to create an array `ans` of length `2n` where `ans[i] == nums[i]` and `ans[i + n] == nums[i]` for `0 <= i < n` (__0-indexed__)./
 
 Specifically, `ans` is the __concatenation__ of two `nums` arrays.
 
